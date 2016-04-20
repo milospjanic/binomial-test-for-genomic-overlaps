@@ -14,7 +14,7 @@ Note that file names are optional.
 
 #Example output
 <pre>
-./binomial2.sh file1.bed file2.bed
+./binomial.sh file1.bed file2.bed
 Number of unique overlaps of A and B
 143
 Calculating coverage of ./file2.bed in human genome hg19
