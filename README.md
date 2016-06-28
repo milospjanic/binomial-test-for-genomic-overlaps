@@ -1,4 +1,4 @@
-# binomial-test-for-genomic-overlaps
+# binomialTestForGenomicOverlaps
 This is a combined bash/R script that will generate a binomial p-value that shows significance for the overlap of two sets of genomic regions (for example from ChIP-Seq experiments).
 
 To calculate binomial p-value you would need two bed files as inputs. Note that binomial test does not require background set as do Fisher and hypergeometric tests.
